@@ -1,0 +1,3 @@
+C:\Users\KupaDev23\Desktop\VISION 1.0\core\network\src\main\java\com\krimson\kuona\core\network\socket\LocalOnlySocketFactory.kt
+C:\Users\KupaDev23\Desktop\VISION 1.0\core\network\src\main\java\com\krimson\kuona\core\network\source\SimulationDataSource.kt
+C:\Users\KupaDev23\Desktop\VISION 1.0\core\network\src\main\java\com\krimson\kuona\core\network\di\NetworkModule.kt

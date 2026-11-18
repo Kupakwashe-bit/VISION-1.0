@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="kuona_black">#000000</color>
+    <color name="kuona_foreground">#EBEBEB</color>
+    <color name="kuona_dim">#8CEBEBEB</color>
+    <color name="kuona_threat_red">#FF2A2A</color>
+    <color name="kuona_panel">#AD000000</color>
+</resources>

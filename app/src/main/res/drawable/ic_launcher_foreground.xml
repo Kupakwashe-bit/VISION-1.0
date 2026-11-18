@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Isometric Wireframe Cube: White lines -->
+    <!-- Front Face -->
+    <path
+        android:strokeColor="#EBEBEB"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M38,44 L70,44 L70,76 L38,76 Z"/>
+    <!-- Back Face Edges (Top & Right) -->
+    <path
+        android:strokeColor="#8CEBEBEB"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M54,28 L86,28 L86,60"/>
+    <!-- Connecting Edges: Top-Left, Bottom-Right, Top-Right -->
+    <path
+        android:strokeColor="#8CEBEBEB"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M38,44 L54,28 M70,76 L86,60 M70,44 L86,28"/>
+    <!-- THE ONE RED THREAT EDGE (Bottom-Left front-to-back or vertical front) -->
+    <path
+        android:strokeColor="#FF2A2A"
+        android:strokeWidth="3.2"
+        android:strokeLineCap="round"
+        android:pathData="M38,76 L54,60"/>
+</vector>
